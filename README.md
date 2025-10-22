@@ -16,7 +16,7 @@ A console-based task management application built with Java. Manage your daily t
 
 ## Example menu
 
-======== To-Do List Menu ========
+======== To-Do List Menu ========  
 0. Exit
 1. Add a task
 2. Show tasks
@@ -28,8 +28,8 @@ A console-based task management application built with Java. Manage your daily t
 
 ## Example task
 
-1. Buy groceries
-Description: Milk, eggs, bread
-Deadline: 15.12.2024
-Priority: HIGH
-Status: In progress
+1. Buy groceries  
+Description: Milk, eggs, bread  
+Deadline: 15.12.2024  
+Priority: HIGH  
+Status: In progress  
